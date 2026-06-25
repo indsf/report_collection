@@ -13,7 +13,7 @@
 
 ### 1. 블로그 광고 필터링 및 리뷰 요약 (먹어볼래?)
 > **AI 기반 광고 판별 및 리뷰 요약 맛집 탐색 서비스**
-* 💻 **소스코드 저장소**: [Mukablorae Repository](https://github.com/inhlee/Mukablorae)
+* 💻 **소스코드 저장소**: [(https://github.com/inhlee/Mukablorae])
 * 📁 **문서 보기**: [상세 서류 및 최종 발표자료 폴더로 이동](./블로그%20광고%20필터링%20및%20리뷰%20요약(상세%20서류))
 
 ---
